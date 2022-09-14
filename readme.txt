@@ -2,3 +2,4 @@ osd_transparent包含了海思开发板venc模块叠加时间的代码，编译�
 test是测试freetype、SDL、SDL_ttf是否跑通的一个小demo
 font里面是交叉编译生成的头文件与库文件
 wqy-microhei是一个黑体字库。
+记得修改Make文件里的fontlib的位置
